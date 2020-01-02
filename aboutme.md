@@ -4,9 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+한국외국어대학교 서울캠퍼스 학부생 / 서울 거주 / 24:
 
-- I rock a great mustache
+- 러시아어, 자연어처리 전공
 - I'm extremely loyal to my family
 
 What else do you need?
