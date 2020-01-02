@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: 문돌이 자연어처리 공부
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: 자연어처리 관련 공부 블로그
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
